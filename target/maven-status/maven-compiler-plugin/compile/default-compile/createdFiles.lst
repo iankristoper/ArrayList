@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 com\ian\arraylist3\ContactDirectory.class
 com\ian\arraylist3\ArrayList3.class
 com\ian\arraylist3\Contact.class
+=======
+com\ian\arraylist2\ArrayList2.class
+com\ian\arraylist2\Student.class
+com\ian\arraylist2\StudentManager.class
+>>>>>>> origin/main
